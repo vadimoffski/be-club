@@ -18,7 +18,7 @@ const Main = () => {
                             <h1 className="main-block__title">Make Clubbing</h1>
                             <div className="main-block__text">Great Again!</div>
                             <div className="main-block__buttons">
-                                <a href="#" className="main-block__button">
+                                <a href="/" className="main-block__button">
                                     More about us
                                 </a>
                             </div>
@@ -34,7 +34,7 @@ const Main = () => {
                             <div className="postcards__row">
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 src={postcard1}
                                                 alt="pic-1"
@@ -48,7 +48,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -63,7 +63,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular
@@ -78,7 +78,7 @@ const Main = () => {
                                 </div>
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 className="blog-image__scale"
                                                 src={postcard2}
@@ -92,7 +92,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -107,7 +107,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular
@@ -122,7 +122,7 @@ const Main = () => {
                                 </div>
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 className="blog-image__scale"
                                                 src={postcard3}
@@ -136,7 +136,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -151,7 +151,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular
@@ -166,7 +166,7 @@ const Main = () => {
                                 </div>
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 className="blog-image__scale"
                                                 src={postcard4}
@@ -180,7 +180,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -195,7 +195,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular
@@ -210,7 +210,7 @@ const Main = () => {
                                 </div>
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 className="blog-image__scale"
                                                 src={postcard5}
@@ -224,7 +224,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -239,7 +239,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular
@@ -254,7 +254,7 @@ const Main = () => {
                                 </div>
                                 <div className="postcards__item blog-item">
                                     <div className="blog-item__image blog-image">
-                                        <a href="#">
+                                        <a href="/">
                                             <img
                                                 className="blog-image__scale"
                                                 src={postcard6}
@@ -268,7 +268,7 @@ const Main = () => {
                                         </div>
                                         <h2 className="blog-item__title blog-title">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="blog-title__link"
                                             >
                                                 QUISQUE FACILISIS NEC CONGUE
@@ -283,7 +283,7 @@ const Main = () => {
                                     <div className="blog-item__footer blog-foo">
                                         <div className="blog-foo__categorie categorie">
                                             <a
-                                                href="#"
+                                                href="/"
                                                 className="categorie__link"
                                             >
                                                 Popular

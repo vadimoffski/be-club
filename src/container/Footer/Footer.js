@@ -36,18 +36,24 @@ const Footer = () => {
                             <nav className="footer__menu">
                                 <ul className="footer__list">
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">
-                                            <img src={linkedin} alt="" />
+                                        <a href="/" className="footer__link">
+                                            <img
+                                                src={linkedin}
+                                                alt="linkedin"
+                                            />
                                         </a>
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">
-                                            <img src={behance} alt="" />
+                                        <a href="/" className="footer__link">
+                                            <img src={behance} alt="behance" />
                                         </a>
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">
-                                            <img src={facebook} alt="" />
+                                        <a href="/" className="footer__link">
+                                            <img
+                                                src={facebook}
+                                                alt="facebook"
+                                            />
                                         </a>
                                     </li>
                                 </ul>
@@ -59,13 +65,9 @@ const Footer = () => {
                     <div className="footer__container _container">
                         <div className="copyright">
                             © 2021 Betheme by
-                            <a href="https://muffingroup.com" target="_blank">
-                                Muffin group
-                            </a>
-                            | All Rights Reserved | Powered by
-                            <a href="https://wordpress.org" target="_blank">
-                                WordPress
-                            </a>
+                            <a href="https://muffingroup.com">Muffin group</a>|
+                            All Rights Reserved | Powered by
+                            <a href="https://wordpress.org">WordPress</a>
                         </div>
                     </div>
                 </div>

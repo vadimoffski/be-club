@@ -13,7 +13,7 @@ const postcardsArray = [
         pubDate: 'February 6, 2019',
         title: 'QUISQUE FACILISIS NEC CONGUE PORTA',
         desc: 'Morbi scelerisque malesuada enim sit amet sollicitudin cras',
-        category: 'Popular',
+        category: 'House',
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const postcardsArray = [
         pubDate: 'February 6, 2019',
         title: 'QUISQUE FACILISIS NEC CONGUE PORTA',
         desc: 'Morbi scelerisque malesuada enim sit amet sollicitudin cras',
-        category: 'Popular',
+        category: 'Techno',
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const postcardsArray = [
         pubDate: 'February 6, 2019',
         title: 'QUISQUE FACILISIS NEC CONGUE PORTA',
         desc: 'Morbi scelerisque malesuada enim sit amet sollicitudin cras',
-        category: 'Popular',
+        category: 'Hip-Hop',
     },
     {
         id: 5,
@@ -45,7 +45,7 @@ const postcardsArray = [
         pubDate: 'February 6, 2019',
         title: 'QUISQUE FACILISIS NEC CONGUE PORTA',
         desc: 'Morbi scelerisque malesuada enim sit amet sollicitudin cras',
-        category: 'Popular',
+        category: 'Trap',
     },
 ]
 
